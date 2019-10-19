@@ -1,6 +1,6 @@
 # python2
 
-![circleci][circleci]
+[![circleci][circleci]](https://circleci.com/gh/vektorcloud/python2)
 
 Alpine-based Python image
 
